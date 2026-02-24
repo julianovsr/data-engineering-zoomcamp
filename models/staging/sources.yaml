@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: raw_data
+    description: "XXXXX"
+    database: data-engineering-487019
+    schema: julianovsr_ds_hw_3
+    tables:
+      - name: yellow_trip_data_partitioned_clustered
